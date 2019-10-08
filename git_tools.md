@@ -1,4 +1,4 @@
-Here's a great list of Git GUI applications:
+# Git GUIs
 [git-scm.com/downloads/guis](https://git-scm.com/downloads/guis)
 
 # Command Line
